@@ -80,3 +80,4 @@ The project provides detailed insights into the audio data:
 
 ## 📧 Contact
 For any questions or feedback, feel free to reach out.
+usamullah093@gmail.com
